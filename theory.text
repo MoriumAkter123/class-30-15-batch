@@ -1,0 +1,81 @@
+=====Loop=====
+
+1. for Loop
+2.foreach Loop
+3. While Loop
+4. do while Loop
+
+===For Loop===
+
+for(initialization; range/conditon; increment/decrement){
+
+                //statement....
+
+}
+
+
+
+For(){
+
+if(){
+
+
+
+}
+
+else{
+
+
+
+}
+
+//statement....
+
+}
+
+
+   =========foreach loop======
+
+
+   array.foreach((element)=>{
+          // statement.....
+   })
+
+
+   Let array = [344,59,0,67];
+
+   for((element)=>{
+
+        element;
+   })
+
+
+   ====While loop====
+
+   let i = 0;===> initialization
+   conditon;
+   increment/decrement;
+
+
+   initialization;
+
+   While(conditon){
+         
+         
+        //statement;
+
+        increment/decrement;
+
+   }
+
+
+   ====do while loop====
+
+   let i = 0;
+
+   do{
+         //statement...
+         increment/decrement
+   }
+
+   while(conditon);
